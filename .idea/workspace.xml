@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="" />
+    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="delete workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BCH7UuSYIKQT87v4Wx0pgGwvG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,13 +44,13 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordRank_Scoring_System">
-    <configuration name="Growing_and_Shrinking_Potions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_hard.Growing_and_Shrinking_Potions" />
+  <component name="RunManager" selected="Application.Star_Shorthand">
+    <configuration name="Fibonacci_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Fibonacci_Word" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_hard.*" />
+          <option name="PATTERN" value="Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -44,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Persistent_Little_Bugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_hard.Persistent_Little_Bugger" />
+    <configuration name="Hard.Reverse_Letters_Keep_Numbers_in_Place" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Reverse_Letters_Keep_Numbers_in_Place" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_hard.*" />
+          <option name="PATTERN" value="Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Letters_Keep_Numbers_in_Place" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_hard.Reverse_Letters_Keep_Numbers_in_Place" />
+    <configuration name="Ones_and_Zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Ones_and_Zeroes" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_hard.*" />
+          <option name="PATTERN" value="Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unmix_My_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Unmix_My_Strings" />
+    <configuration name="Star_Shorthand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Star_Shorthand" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -98,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star_Shorthand" />
+        <item itemvalue="Application.Ones_and_Zeroes" />
+        <item itemvalue="Application.Hard.Reverse_Letters_Keep_Numbers_in_Place" />
+        <item itemvalue="Application.Fibonacci_Word" />
         <item itemvalue="Application.WordRank_Scoring_System" />
-        <item itemvalue="Application.Hard.Unmix_My_Strings" />
-        <item itemvalue="Application.Reverse_Letters_Keep_Numbers_in_Place" />
-        <item itemvalue="Application.Persistent_Little_Bugger" />
-        <item itemvalue="Application.Growing_and_Shrinking_Potions" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +129,34 @@
       <option name="presentableId" value="Default" />
       <updated>1656402979999</updated>
     </task>
+    <task id="LOCAL-00001" summary="delete workspace.xml">
+      <created>1656404577390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656404577390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete workspace.xml" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tasks_hard_git$Ones_and_Zeroes.ic" NAME="Ones_and_Zeroes Coverage Results" MODIFIED="1656659694651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Hard.*</FILTER>
+    </SUITE>
   </component>
 </project>
