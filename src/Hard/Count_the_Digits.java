@@ -1,5 +1,6 @@
 package Hard;
-
+//Create a function that will count the number of digits of a number. Conversion of the number to a string
+// is not allowed, thus, the approach is either recursive or iterative.
 public class Count_the_Digits {
     public static int digitsCount(long n) {
         return (n==0)?1: (int) Math.ceil(Math.log10(n + 0.5));
