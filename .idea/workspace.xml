@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="added description to the task" />
+    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Count_the_Digits_recursively">
+  <component name="RunManager" selected="Application.Pluralize">
     <configuration name="Count_the_Digits_recursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Count_the_Digits_recursively" />
       <module name="Tasks_git" />
@@ -81,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard.Ones_and_Zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Ones_and_Zeroes" />
-      <module name="Tasks_git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Hard.Star_Shorthand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Star_Shorthand" />
       <module name="Tasks_git" />
@@ -107,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pluralize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Pluralize" />
+      <module name="Tasks_git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pluralize" />
         <item itemvalue="Application.Count_the_Digits_recursively" />
         <item itemvalue="Application.Hard.Count_the_Digits" />
         <item itemvalue="Application.Hard.Oddly_or_Evenly_Positioned_from_Last" />
         <item itemvalue="Application.Hard.Star_Shorthand" />
-        <item itemvalue="Application.Hard.Ones_and_Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657094554061</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new task">
+      <created>1657095435248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657095435248</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +190,8 @@
     <MESSAGE value="add Oddly_or_Evenly_Positioned_from_Last" />
     <MESSAGE value="add task" />
     <MESSAGE value="added description to the task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added description to the task" />
+    <MESSAGE value="add new task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new task" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tasks_hard_git$Ones_and_Zeroes.ic" NAME="Ones_and_Zeroes Coverage Results" MODIFIED="1656659694651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
