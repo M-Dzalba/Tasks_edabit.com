@@ -41,7 +41,7 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Swapping_Cards">
+  <component name="RunManager" selected="Application.Digits_Sum_Root">
     <configuration name="Count_the_Digits_recursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Count_the_Digits_recursively" />
       <module name="Tasks_git" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard.Count_the_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Count_the_Digits" />
+    <configuration name="Digits_Sum_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Digits_Sum_Root" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard.Oddly_or_Evenly_Positioned_from_Last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Oddly_or_Evenly_Positioned_from_Last" />
+    <configuration name="Hard.Count_the_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Count_the_Digits" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Digits_Sum_Root" />
         <item itemvalue="Application.Swapping_Cards" />
         <item itemvalue="Application.Pluralize" />
         <item itemvalue="Application.Count_the_Digits_recursively" />
         <item itemvalue="Application.Hard.Count_the_Digits" />
-        <item itemvalue="Application.Hard.Oddly_or_Evenly_Positioned_from_Last" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657103683632</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add new task">
+      <created>1657527858247</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657527858247</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
