@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task" />
+    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Body_Mass_Index">
+  <component name="RunManager" selected="Application.String_Incrementer">
     <configuration name="A_Periodic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.A_Periodic_Series" />
       <module name="Tasks_git" />
@@ -69,19 +71,6 @@
     </configuration>
     <configuration name="Body_Mass_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Body_Mass_Index" />
-      <module name="Tasks_git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Digits_Sum_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Digits_Sum_Root" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -119,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Incrementer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.String_Incrementer" />
+      <module name="Tasks_git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Incrementer" />
         <item itemvalue="Application.Body_Mass_Index" />
         <item itemvalue="Application.Recursion_Left_Shift_by_Powers_of_Two" />
         <item itemvalue="Application.A_Periodic_Series" />
         <item itemvalue="Application.N_Length_Letter_Groups" />
-        <item itemvalue="Application.Digits_Sum_Root" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657788083386</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add new task">
+      <created>1657791680911</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657791680912</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
