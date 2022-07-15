@@ -53,9 +53,9 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Truncate_String_at_a_Given_Length">
-    <configuration name="A_Periodic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.A_Periodic_Series" />
+  <component name="RunManager" selected="Application.Balanced_Brackets">
+    <configuration name="Balanced_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Balanced_Brackets" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Balanced_Brackets" />
         <item itemvalue="Application.Truncate_String_at_a_Given_Length" />
         <item itemvalue="Application.String_Incrementer" />
         <item itemvalue="Application.Body_Mass_Index" />
         <item itemvalue="Application.Recursion_Left_Shift_by_Powers_of_Two" />
-        <item itemvalue="Application.A_Periodic_Series" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657862823656</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add new task">
+      <created>1657865882190</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657865882190</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
