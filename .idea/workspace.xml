@@ -55,7 +55,7 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Working_9_to_5">
+  <component name="RunManager" selected="Application.Phone_Number_Word_Decoder">
     <configuration name="Balanced_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Balanced_Brackets" />
       <module name="Tasks_git" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Incrementer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.String_Incrementer" />
+    <configuration name="Phone_Number_Word_Decoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Phone_Number_Word_Decoder" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Phone_Number_Word_Decoder" />
         <item itemvalue="Application.Working_9_to_5" />
         <item itemvalue="Application.Find_the_Odd_Integer" />
         <item itemvalue="Application.Balanced_Brackets" />
         <item itemvalue="Application.Truncate_String_at_a_Given_Length" />
-        <item itemvalue="Application.String_Incrementer" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658128611374</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add new task">
+      <created>1658132017609</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658132017609</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
