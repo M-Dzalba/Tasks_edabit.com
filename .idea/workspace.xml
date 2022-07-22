@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,20 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Meme_Sum">
+  <component name="RunManager" selected="Application.Ice_Cream_Sandwich">
+    <configuration name="Ice_Cream_Sandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Ice_Cream_Sandwich" />
+      <module name="Tasks_git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Meme_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Meme_Sum" />
       <module name="Tasks_git" />
@@ -108,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Working_9_to_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Working_9_to_5" />
-      <module name="Tasks_git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ice_Cream_Sandwich" />
         <item itemvalue="Application.Meme_Sum" />
         <item itemvalue="Application.Ones_and_Zeroes" />
         <item itemvalue="Application.Triple_Double_So_Much_Trouble" />
         <item itemvalue="Application.Phone_Number_Word_Decoder" />
-        <item itemvalue="Application.Working_9_to_5" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658220830216</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add new task">
+      <created>1658473868087</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658473868088</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
