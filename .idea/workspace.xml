@@ -55,9 +55,9 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Triple_Double_So_Much_Trouble">
-    <configuration name="Balanced_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Balanced_Brackets" />
+  <component name="RunManager" selected="Application.Meme_Sum">
+    <configuration name="Meme_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Meme_Sum" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_the_Odd_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Find_the_Odd_Integer" />
+    <configuration name="Ones_and_Zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Ones_and_Zeroes" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Meme_Sum" />
+        <item itemvalue="Application.Ones_and_Zeroes" />
         <item itemvalue="Application.Triple_Double_So_Much_Trouble" />
         <item itemvalue="Application.Phone_Number_Word_Decoder" />
         <item itemvalue="Application.Working_9_to_5" />
-        <item itemvalue="Application.Find_the_Odd_Integer" />
-        <item itemvalue="Application.Balanced_Brackets" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658210450438</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add new task">
+      <created>1658220830216</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658220830216</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
