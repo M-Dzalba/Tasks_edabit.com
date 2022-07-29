@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task" />
+    <list default="true" id="ef84aeeb-f11e-44c3-bd82-7bbce97a6d23" name="Changes" comment="add new task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <recent name="D:\JAVA_projects\Schildt\src\main\java\Tasks_hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ice_Cream_Sandwich">
+  <component name="RunManager" selected="Application.Temperature_Converter">
     <configuration name="Ice_Cream_Sandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hard.Ice_Cream_Sandwich" />
       <module name="Tasks_git" />
@@ -93,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone_Number_Word_Decoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Phone_Number_Word_Decoder" />
+    <configuration name="Temperature_Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Temperature_Converter" />
       <module name="Tasks_git" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temperature_Converter" />
         <item itemvalue="Application.Ice_Cream_Sandwich" />
         <item itemvalue="Application.Meme_Sum" />
         <item itemvalue="Application.Ones_and_Zeroes" />
         <item itemvalue="Application.Triple_Double_So_Much_Trouble" />
-        <item itemvalue="Application.Phone_Number_Word_Decoder" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658473868088</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add new task">
+      <created>1658475755700</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658475755700</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
